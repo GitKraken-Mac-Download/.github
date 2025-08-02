@@ -28,7 +28,7 @@ GitKraken excels in team collaboration with its built-in code review system, rea
 
 For enterprise users, GitKraken offers secure credential management, SAML single sign-on, and audit logging. The application is trusted by over 10 million developers worldwide and is particularly popular among web developers, mobile app teams, and open-source contributors working on Mac systems.  
 
-![GitKraken Screenshot 2](https://static.macupdate.com/screenshots/345142/m/gitkraken-screenshot.png) 
+![GitKraken Screenshot 2](https://www.gitkraken.com/wp-content/uploads/2022/03/index-thumbnail.png) 
 
 ---  
 
